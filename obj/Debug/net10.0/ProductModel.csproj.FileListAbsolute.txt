@@ -1,0 +1,14 @@
+C:\HCLtraining\day5_realP\ProductModel\bin\Debug\net10.0\ProductModel.exe
+C:\HCLtraining\day5_realP\ProductModel\bin\Debug\net10.0\ProductModel.deps.json
+C:\HCLtraining\day5_realP\ProductModel\bin\Debug\net10.0\ProductModel.runtimeconfig.json
+C:\HCLtraining\day5_realP\ProductModel\bin\Debug\net10.0\ProductModel.dll
+C:\HCLtraining\day5_realP\ProductModel\bin\Debug\net10.0\ProductModel.pdb
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.AssemblyInfoInputs.cache
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.AssemblyInfo.cs
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.csproj.CoreCompileInputs.cache
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.dll
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\refint\ProductModel.dll
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.pdb
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ProductModel.genruntimeconfig.cache
+C:\HCLtraining\day5_realP\ProductModel\obj\Debug\net10.0\ref\ProductModel.dll
